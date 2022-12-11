@@ -1,5 +1,4 @@
-# Microservice Architecture in a Nuttsell
-The repo for the fast and easy guide to the Microservice architecture
+Microservices architecuture
 
 Some advantages:
 - working with small components creates room to scale the service in separate parts
@@ -20,3 +19,4 @@ Authentication and Authorization
 	so the user needs to supply login details to authenticate
 
 	Authorization -> WHAT YOU CAN DO?
+
